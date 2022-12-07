@@ -1,4 +1,4 @@
-﻿using static ForzaDSX.PacketParse;
+using static ForzaDSX.PacketParse;
 
 namespace ForzaDSX
 {

@@ -1,4 +1,4 @@
-﻿namespace ForzaDSX
+namespace ForzaDSX
 {
     public class DataPacket
     {
